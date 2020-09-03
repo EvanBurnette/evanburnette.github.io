@@ -7,11 +7,11 @@ I'm a songwriter tinkering with music, hardware, and code.
 [Meditation App](evanburnette.github.io/meditationApp)
 
 ## Other Things Around the Web:
-[My old Youtube Channel](Youtube.com/user/EvanBurnettemusic2)
+[My old Youtube Channel](www.Youtube.com/user/EvanBurnettemusic2)
 
-[My New Youtube Channel](Youtube.com/user/EvanBurnettemusic)
+[My New Youtube Channel](https://www.Youtube.com/user/EvanBurnettemusic)
 
-[Bandcamp](evanburnettemusic.bandcamp.com)
+[Bandcamp](https://evanburnettemusic.bandcamp.com)
 
 [Twitter](https://twitter.com/emburnette)
 
