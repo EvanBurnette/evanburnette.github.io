@@ -4,7 +4,7 @@
 I'm a songwriter tinkering with music, hardware, and code.
 
 ## Meditation App
-[Meditation App](evanburnette.github.io/meditationApp)
+[Meditation App](/meditationApp)
 
 ## Other Things Around the Web:
 [My old Youtube Channel](https://www.Youtube.com/user/evanBurnettemusic2)
