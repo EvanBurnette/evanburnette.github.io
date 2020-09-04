@@ -11,7 +11,7 @@ I'm a songwriter tinkering with music, hardware, and code.
 [Synth Playground](https://evanburnette.github.io/synthPlayground/synthPlayground.html)
 <br>Generative music doodling with 4 instruments
 
-[Polyrhythm Trainer](https://evanburnette.github.io/polyrhythmTrainer/index.html)
+[Polyrhythm Trainer](https://evanburnette.github.io/PolyrhythmTrainer/index.html)
 <br>Build intuition with visualization and audio playback of different polyrythms of your choosing
 
 ### Non-web coding projects
