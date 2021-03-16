@@ -5,7 +5,7 @@ I'm a songwriter tinkering with music, hardware, and code.
 
 ## My Coding Projects
 ### Cool Websites
-[Electribe ER-1 Mute Calculator](https://evanburnette.github.io/ElectribeMuteCalculatorSite/)
+[Electribe ER-1 Mute Calculator](https://evanburnette.github.io/ElectribeMuteCalculatorSite/index.html)
 <br>Mute and unmute parts on the Korg ER-1 Electribe using NRPN
 <br>I've used this in my Pedalboard Midi Controller (below)
 
