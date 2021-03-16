@@ -5,6 +5,10 @@ I'm a songwriter tinkering with music, hardware, and code.
 
 ## My Coding Projects
 ### Cool Websites
+[Electribe ER-1 Mute Calculator](https://evanburnette.github.io/ElectribeMuteCalculatorSite/)
+<br>Mute and unmute parts on the Korg ER-1 Electribe using NRPN
+<br>I've used this in my Pedalboard Midi Controller (below)
+
 [Meditation App](https://evanburnette.github.io/BreathCounterMeditationApp/index.html)
 <br>Helps you measure and count breaths and set a custom meditation session length
 
