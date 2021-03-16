@@ -18,6 +18,9 @@ I'm a songwriter tinkering with music, hardware, and code.
 [Polyrhythm Trainer](https://evanburnette.github.io/PolyrhythmTrainer/index.html)
 <br>Build intuition with visualization and audio playback of different polyrythms of your choosing
 
+[Drum Pads](https://evanburnette.github.io/DrumPads/index.html]
+<br>MPC style drum pads you can run in Chrome browser
+
 ### Non-web coding projects
 [Pedal Board Midi Controller](https://github.com/EvanBurnette/pedalBoardMidiController)
 <br>Code for a custom pedalboard integrated arduino based midi controller for hands free drum machine control
