@@ -1,10 +1,15 @@
 # Evan Burnette's Github Homepage
 
 ## About Me
-I'm a songwriter tinkering with music, hardware, and code.
+Full stack web developer and music producer
 
 ## My Coding Projects
 ### Cool Websites
+[Unjumbler](https://evanburnette.github.io/unjumbler)
+<br>Solve the popular newspaper word game Jumble™️
+<br>Runs completely in the browser using webworkers to do the work which keeps the UI responsive to user input
+<br>Built with Svelte, Sveltekit, Skeleton UI, Tailwind CSS, Vite, Comlink, and Typescript
+
 [Electribe ER-1 Mute Calculator](https://evanburnette.github.io/ElectribeMuteCalculatorSite/index.html)
 <br>Mute and unmute parts on the Korg ER-1 Electribe using NRPN
 <br>I've used this in my Pedalboard Midi Controller (below)
