@@ -6,6 +6,7 @@ Full stack web developer and music producer
 ## My Coding Projects
 ### Webapps
 ![matrix multiplication visualized with a broken connection between columns of operations and rows of data](matmulViz_thumb.png)
+
 [Matrix Multiplication Visualizer](https://evanburnette.github.io/matmul_viz)
 <br>Build intuition for matrix multiplication with this interactive demo!
 
