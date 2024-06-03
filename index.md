@@ -4,8 +4,8 @@
 <iframe
   src="https://evanburnette.github.io/matmul_viz"
   title="Matrix Multiplication Visualizer"
-  width="800"
-  height="800"
+  width="700"
+  height="700"
 ></iframe>
 
 [Galton Board Christmas Tree](https://editor.p5js.org/EvanBurnette/full/NuiAuynzm)
@@ -13,8 +13,8 @@
 <iframe
   src="https://editor.p5js.org/EvanBurnette/full/NuiAuynzm"
   title="Galton Board Christmas Tree"
-  width="800"
-  height="800"
+  width="700"
+  height="700"
 ></iframe>
 
 [Polyrhythm Trainer](https://evanburnette.github.io/PolyrhythmTrainer/index.html)
@@ -22,8 +22,8 @@
 <iframe
   src="https://evanburnette.github.io/PolyrhythmTrainer/index.html"
   title="Polyrhythm Trainer"
-  width="800"
-  height="800"
+  width="700"
+  height="700"
 ></iframe>
 
 [Electribe ER-1 Mute Calculator](https://evanburnette.github.io/ElectribeMuteCalculatorSite/index.html)
@@ -32,8 +32,8 @@
 <iframe
   src="https://evanburnette.github.io/ElectribeMuteCalculatorSite/index.html"
   title="Electribe ER-1 Mute Calculator"
-  width="800"
-  height="800"
+  width="700"
+  height="700"
 ></iframe>
 
 [Pedal Board Midi Controller](https://github.com/EvanBurnette/pedalBoardMidiController)
