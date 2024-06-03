@@ -1,9 +1,6 @@
-# Evan Burnette
-## Portfolio
-
 ### Webapps
 <!-- ![matrix multiplication visualized with a broken connection between columns of operations and rows of data](matmulViz_thumb.png) -->
-
+#### Matrix Multiplication Visualizer
 [Matrix Multiplication Visualizer](https://evanburnette.github.io/matmul_viz)
 <br>Build intuition for matrix multiplication with this interactive demo!
 <iframe
