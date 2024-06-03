@@ -1,14 +1,17 @@
-# Evan Burnette's Github Homepage
+# Evan Burnette
+## Portfolio
 
-## About Me
-Full stack web developer and music producer
-
-## My Coding Projects
 ### Webapps
-![matrix multiplication visualized with a broken connection between columns of operations and rows of data](matmulViz_thumb.png)
+<!-- ![matrix multiplication visualized with a broken connection between columns of operations and rows of data](matmulViz_thumb.png) -->
 
 [Matrix Multiplication Visualizer](https://evanburnette.github.io/matmul_viz)
 <br>Build intuition for matrix multiplication with this interactive demo!
+<iframe
+  src="https://evanburnette.github.io/matmul_viz"
+  title="Matrix Multiplication Visualizer"
+  width="500"
+  height="500">
+</iframe>
 
 [Unjumbler](https://evanburnette.github.io/unjumbler)
 <br>Solve the popular newspaper word game Jumble™️
@@ -29,7 +32,7 @@ Full stack web developer and music producer
 <br>Helps you measure and count breaths and set a custom meditation session length
 
 [Synth Playground](https://evanburnette.github.io/synthPlayground/synthPlayground.html)
-<br>Generative music doodling with 4 instruments
+<br>Generative music doodling with 4 instruments (currently broken :sad:)
 
 [Drum Pads](https://evanburnette.github.io/DrumPads/index.html)
 <br>MPC style drum pads you can run in Chrome browser
@@ -41,11 +44,8 @@ Full stack web developer and music producer
 [Genius 2 HTML](https://github.com/EvanBurnette/genius2html)
 <br>Scrapes Genius for all songs in an album and creates custom formatted, multi-instrument, HTML song map
 
-## Other Things Around the Web:
-[My old Youtube Channel](https://www.Youtube.com/user/evanBurnettemusic2)
-
-[My New Youtube Channel](https://www.Youtube.com/user/EvanBurnettemusic)
-
-[Bandcamp](https://evanburnettemusic.bandcamp.com)
-
-[Twitter](https://twitter.com/emburnette)
+<!-- <style>
+    img {
+        max-width: 300px;
+    }
+</style> -->
