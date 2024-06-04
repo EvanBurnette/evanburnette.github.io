@@ -19,13 +19,11 @@
 
 [Polyrhythm Trainer](https://evanburnette.github.io/PolyrhythmTrainer/index.html)
 <br>Build intuition with visualization and audio playback of polyrhythms
-<!-- <iframe
-  src="https://evanburnette.github.io/PolyrhythmTrainer/index.html"
-  title="Polyrhythm Trainer"
-  width="700"
-  height="700"
-></iframe> -->
-<iframe src="https://editor.p5js.org/EvanBurnette/full/pK3MzBz2a"></iframe>
+<iframe src="https://editor.p5js.org/EvanBurnette/full/pK3MzBz2a"
+    title="Polyrhythm Trainer"
+    width="700"
+    height="700"
+></iframe>
 
 [Electribe ER-1 Mute Calculator](https://evanburnette.github.io/ElectribeMuteCalculatorSite/index.html)
 <br>Mute and unmute parts on the Korg ER-1 Electribe drum machine using NRPN
