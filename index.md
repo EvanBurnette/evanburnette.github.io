@@ -27,6 +27,10 @@
   height="700"
 ></iframe>
 
+[Sample Pack Creator User Flow](https://github.com/EvanBurnette/samplekiller)
+<br>A user flow and design for a sample pack creator program
+![A rich design document that shows modes and flows](sampleKillerUserFlow.png)
+
 [Polyrhythm Trainer](https://evanburnette.github.io/PolyrhythmTrainer/index.html)
 <br>Build intuition with visualization and audio playback of polyrhythms
 <iframe src="https://editor.p5js.org/EvanBurnette/full/pK3MzBz2a"
@@ -50,6 +54,12 @@
 
 [Genius 2 HTML](https://github.com/EvanBurnette/genius2html)
 <br>Scrapes Genius for all songs in an album and creates custom formatted, multi-instrument, HTML song map
+
+<style>
+  img {
+    max-width: 700px;
+  }
+</style>
 
 <!-- [Unjumbler](https://evanburnette.github.io/unjumbler)
 <br>Solve the popular newspaper word game Jumble™️
