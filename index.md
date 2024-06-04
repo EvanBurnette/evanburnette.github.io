@@ -8,6 +8,16 @@
   height="700"
 ></iframe>
 
+[Svelte Drum Sequencer](https://evanburnette.github.io/svelte-drum-sequencer/)
+<br>Interactive drum sequencer built with Svelte
+<br>Sequence and play your own drum patterns
+<iframe
+  src="https://evanburnette.github.io/svelte-drum-sequencer/"
+  title="Svelte Drum Sequencer"
+  width="700"
+  height="500"
+></iframe>
+
 [Galton Board Christmas Tree](https://editor.p5js.org/EvanBurnette/full/NuiAuynzm)
 <br>P5.js app that uses random events to demonstrate a normal distribution 
 <iframe
