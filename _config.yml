@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: [Evan Burnette]
 description: [EvanBurnette@gmail.com]
+github:
+  repository_url: "https://github.com/EvanBurnette?tab=repositories"
