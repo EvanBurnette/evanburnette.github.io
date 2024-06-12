@@ -14,7 +14,7 @@
 
 [FFT window comparison](https://codepen.io/splosion/pen/XWoKdEM?editors=0011)
 <br>Interactive sound visualization demo to teach people about windowing functions for ML audio preprocessing
-<iframe height="700" width="700" style="width: 100%;" scrolling="no" title="Tensorflow JS FFT window comparison" src="https://codepen.io/splosion/embed/XWoKdEM?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="700" width="700" style="width: 100%;" scrolling="no" title="Tensorflow JS FFT window comparison" src="https://codepen.io/splosion/embed/XWoKdEM?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/splosion/pen/XWoKdEM">
   Tensorflow JS FFT window comparison</a> by Evan (<a href="https://codepen.io/splosion">@splosion</a>)
   on <a href="https://codepen.io">CodePen</a>.
