@@ -14,12 +14,12 @@
 
 [FFT window comparison](https://codepen.io/splosion/pen/XWoKdEM?editors=0011)
 <br>Interactive sound visualization demo to teach people about windowing functions for ML audio preprocessing
-<iframe 
-  src="https://codepen.io/splosion/pen/XWoKdEM?editors=0011"
-  title="Tensorflow JS FFT window comparison"
-  width="700"
-  height="700"
-></iframe>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="XWoKdEM" data-pen-title="Tensorflow JS FFT window comparison" data-user="splosion" style="height: 700px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/splosion/pen/XWoKdEM">
+  Tensorflow JS FFT window comparison</a> by Evan (<a href="https://codepen.io/splosion">@splosion</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 [Svelte Drum Sequencer](https://evanburnette.github.io/svelte-drum-sequencer/)
 <br>Interactive drum sequencer built with Svelte
@@ -62,10 +62,14 @@
   height="700"
 ></iframe>
 
-(P5js driving sim)[editor.p5js.org/EvanBurnette/sketches/wQLgMLm0i]
+(P5js driving sim)[https://editor.p5js.org/EvanBurnette/sketches/wQLgMLm0i]
 <br>A work in progress trailer backup simulator to train people on how trailer physics work
 <br>Desktop only
-<iframe src="https://editor.p5js.org/EvanBurnette/full/wQLgMLm0i"></iframe>
+<iframe
+src="https://editor.p5js.org/EvanBurnette/full/wQLgMLm0i"
+width="700"
+height="700"
+></iframe>
 
 [Pedal Board Midi Controller](https://github.com/EvanBurnette/pedalBoardMidiController)
 <br>Code for a custom pedalboard integrated arduino based midi controller for hands free drum machine control
