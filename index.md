@@ -4,6 +4,7 @@
 
 <br>Build intuition for matrix multiplication with this interactive demo!
 <br>Resize input matrices and click cells to see what's happening
+<br>Desktop only
 <iframe
   src="https://evanburnette.github.io/matmul_viz"
   title="Matrix Multiplication Visualizer"
@@ -63,6 +64,7 @@
 
 (P5js driving sim)[editor.p5js.org/EvanBurnette/sketches/wQLgMLm0i]
 <br>A work in progress trailer backup simulator to train people on how trailer physics work
+<br>Desktop only
 <iframe src="https://editor.p5js.org/EvanBurnette/full/wQLgMLm0i"></iframe>
 
 [Pedal Board Midi Controller](https://github.com/EvanBurnette/pedalBoardMidiController)
