@@ -14,12 +14,17 @@
 
 [FFT window comparison](https://codepen.io/splosion/pen/XWoKdEM?editors=0011)
 <br>Interactive sound visualization demo to teach people about windowing functions for ML audio preprocessing
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="XWoKdEM" data-pen-title="Tensorflow JS FFT window comparison" data-user="splosion" style="height: 700px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<iframe height="700" width="700" style="width: 100%;" scrolling="no" title="Tensorflow JS FFT window comparison" src="https://codepen.io/splosion/embed/XWoKdEM?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/splosion/pen/XWoKdEM">
+  Tensorflow JS FFT window comparison</a> by Evan (<a href="https://codepen.io/splosion">@splosion</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+<!-- <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="XWoKdEM" data-pen-title="Tensorflow JS FFT window comparison" data-user="splosion" style="height: 700px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/splosion/pen/XWoKdEM">
   Tensorflow JS FFT window comparison</a> by Evan (<a href="https://codepen.io/splosion">@splosion</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script> -->
 
 [Svelte Drum Sequencer](https://evanburnette.github.io/svelte-drum-sequencer/)
 <br>Interactive drum sequencer built with Svelte
