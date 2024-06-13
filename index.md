@@ -14,7 +14,7 @@
 
 [FFT window comparison](https://codepen.io/splosion/pen/XWoKdEM?editors=0011)
 <br>Interactive sound visualization demo to teach people about windowing functions for ML audio preprocessing
-<iframe height="700" width="700" style="width: 100%;" scrolling="no" title="Tensorflow JS FFT window comparison" src="https://codepen.io/splosion/embed/XWoKdEM?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="700" width="700" style="width: 100%;" scrolling="no" title="Tensorflow JS FFT window comparison" src="https://codepen.io/splosion/embed/XWoKdEM?default-tab=none%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/splosion/pen/XWoKdEM">
   Tensorflow JS FFT window comparison</a> by Evan (<a href="https://codepen.io/splosion">@splosion</a>)
   on <a href="https://codepen.io">CodePen</a>.
@@ -75,8 +75,8 @@ src="https://editor.p5js.org/EvanBurnette/full/wQLgMLm0i"
 width="700"
 height="700"
 ></iframe>
-(Synth trainer mock)
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FJI4A4qIuPG08m3neGCBkYM%2FSynth-Trainer%3Fnode-id%3D0-1%26t%3D4FRHYOHoGoeZi0Gv-1" allowfullscreen></iframe>
+<!-- (Synth trainer mock)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FJI4A4qIuPG08m3neGCBkYM%2FSynth-Trainer%3Fnode-id%3D0-1%26t%3D4FRHYOHoGoeZi0Gv-1" allowfullscreen></iframe> -->
 
 [Pedal Board Midi Controller](https://github.com/EvanBurnette/pedalBoardMidiController)
 <br>Code for a custom pedalboard integrated arduino based midi controller for hands free drum machine control
