@@ -4,7 +4,7 @@
 
 <br>Build intuition for matrix multiplication with this interactive demo!
 <br>Resize input matrices and click cells to see what's happening
-<br>Desktop only
+<br>Not intended for mobile use but you can try it at [evanburnette.github.io/matmul](https://evanburnette.github.io/matmul_viz/)
 <iframe
   src="https://evanburnette.github.io/matmul_viz"
   title="Matrix Multiplication Visualizer"
